@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hi there! 👋
 
-<!--
-**raphaelprsilva/raphaelprsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre mim
 
-Here are some ideas to get you started:
+Sou o Raphael, mineiro (uai sô 🔺), de **Uberlândia-MG**, **Brasil 🇧🇷**. Sou pessoa **desenvolvedora web | front-end** (*full-stack em formação na **Trybe** 🚀*). Nas horas livres, gosto de praticar esportes, pintar, aprender (qualquer coisa), ler e por último, mas não menos importante, codar (:heart_eyes: 💻).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Formado em engenharia mecânica, atuei durante 4 anos, como profissional da área de manutenção e condfiabilidade de ativos, em mineradoras e usinas sucroalcoolerias. 
+
+Também atuei como professor volunrário de matemática e física, durante **4 anos**, em uma instituição chamada **Futuro Pré-Vestibular Alternativo ❤️**, a qual tenho um enorme carinho e respeito. 
+
+Estou fazendo uma transição de carreira para a área de **tecnologia** pois, tenho descoberto uma nova paixão. Com ela é possível impactar de maneira positiva, pessoas e suas vidas. Aliada à educação, o ~~céu é o limite~~.
+
+### Formação
+
+* Engenharia mecânica - UFU *(finalizado)*
+* MBA em Gestão de Ativos e Confiabilidade - IESAE *(interrompido)*
+* Pessoa estudante desenvolvedora web - Trybe *(em andamento)*
+
+### Conhecimentos
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelprsilva&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
