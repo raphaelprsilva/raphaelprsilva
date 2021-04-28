@@ -1,7 +1,9 @@
+![GitHub followers](https://img.shields.io/github/followers/raphaelprsilva?style=for-the-badge) 
+![GitHub watchers](https://img.shields.io/github/watchers/raphaelprsilva/raphaelprsilva?style=for-the-badge)
 # Hi there, eu sou o Raphael! 👋
 
-![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/raphael-pereira-silva/)
-![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/raphaelprsilva/)
+[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raphaelprsilva/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-pereira-silva/)
 ## Sobre mim
 
 Sou o Raphael, mineiro (uai sô 🔺), de **Uberlândia-MG**, **Brasil 🇧🇷**. Sou pessoa **desenvolvedora web | front-end** (*full-stack em formação na **Trybe** 🚀*). Nas horas livres, gosto de praticar esportes, pintar, aprender (qualquer coisa), ler e por último, mas não menos importante, codar (:heart_eyes: 💻).
