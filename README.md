@@ -1,5 +1,6 @@
-## Hi there! 👋
+# Hi there, eu sou o Raphael! 👋
 
+[linkedin]
 ### Sobre mim
 
 Sou o Raphael, mineiro (uai sô 🔺), de **Uberlândia-MG**, **Brasil 🇧🇷**. Sou pessoa **desenvolvedora web | front-end** (*full-stack em formação na **Trybe** 🚀*). Nas horas livres, gosto de praticar esportes, pintar, aprender (qualquer coisa), ler e por último, mas não menos importante, codar (:heart_eyes: 💻).
