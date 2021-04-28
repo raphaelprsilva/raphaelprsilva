@@ -10,12 +10,6 @@ Também atuei como professor volunrário de matemática e física, durante **4 a
 
 Estou fazendo uma transição de carreira para a área de **tecnologia** pois, tenho descoberto uma nova paixão. Com ela é possível impactar de maneira positiva, pessoas e suas vidas. Aliada à educação, o ~~céu é o limite~~.
 
-### Formação
-
-* Engenharia mecânica - UFU *(finalizado)*
-* MBA em Gestão de Ativos e Confiabilidade - IESAE *(interrompido)*
-* Pessoa estudante desenvolvedora web - Trybe *(em andamento)*
-
 ### Conhecimentos
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 
