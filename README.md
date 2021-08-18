@@ -6,11 +6,11 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-pereira-silva/)
 ## Sobre mim
 
-Sou o Raphael, mineiro (uai sô 🔺), de **Uberlândia-MG**, **Brasil 🇧🇷**. Sou pessoa **desenvolvedora web | front-end** (*full-stack em formação na **Trybe** 🚀*). Nas horas livres, gosto de praticar esportes, pintar, aprender (qualquer coisa), ler e por último, mas não menos importante, codar (:heart_eyes: 💻).
+Sou o Raphael, mineiro (uai sô 🔺), de **Uberlândia-MG**, **Brasil 🇧🇷**. Sou estudante de **desenvolvedora web | front-end** (*full-stack em formação na **Trybe** 🚀*). Nas horas livres, gosto de praticar esportes, pintar, aprender (qualquer coisa), ler e por último, mas não menos importante, codar (:heart_eyes: 💻).
 
 Formado em engenharia mecânica, atuei durante 4 anos, como profissional da área de manutenção e condfiabilidade de ativos, em mineradoras e usinas sucroalcoolerias. 
 
-Também atuei como professor volunrário de matemática e física, durante **4 anos**, em uma instituição chamada **Futuro Pré-Vestibular Alternativo ❤️**, a qual tenho um enorme carinho e respeito. 
+Também atuei como professor voluntário de matemática e física, durante **4 anos**, em uma instituição chamada **Futuro Pré-Vestibular Alternativo ❤️**, a qual tenho um enorme carinho e respeito. 
 
 Estou fazendo uma transição de carreira para a área de **tecnologia** pois, tenho descoberto uma nova paixão. Com ela é possível impactar de maneira positiva, pessoas e suas vidas. Aliada à educação, o ~~céu é o limite~~.
 
