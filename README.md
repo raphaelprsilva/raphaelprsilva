@@ -3,6 +3,7 @@
 
 ## Sobre mim
 - Mineiro (uai sô 🔺🇧🇷)
+- **Em transição de carreira**: de ```eng. mecânico``` para ```desenvolvedor web full-stack```
 - Apaxoinado por códigos, pintura e esportes
 - Sempre aberto para colaborar em projetos e ajudar qualquer pessoa!
 
@@ -40,5 +41,6 @@
 <a href="mailto:raphaelprsilva@gmail.com?"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ## Github Stats
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=raphaelprsilva&layout=compact&theme=gruvbox)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelprsilva&layout=compact&theme=gruvbox)](mailto:https://github.com/anuraghazra/github-readme-stats)
