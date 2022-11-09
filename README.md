@@ -43,4 +43,7 @@
 ## Github Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=raphaelprsilva&layout=compact&theme=gruvbox)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelprsilva&layout=compact&theme=gruvbox)](mailto:https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=raphaelprsilva&color=blueviolet)
