@@ -4,7 +4,7 @@
 ## Sobre mim
 - Mineiro (uai sô 🔺🇧🇷)
 - **Em transição de carreira**: de ```eng. mecânico``` para ```desenvolvedor web full-stack```
-- Apaxoinado por códigos, pintura e esportes
+- Apaixonado por códigos, pintura e esportes
 - Sempre aberto para colaborar em projetos e ajudar qualquer pessoa!
 
 ## Principais tecnologias que já estudei
