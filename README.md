@@ -3,7 +3,8 @@
 
 ## Sobre mim
 - Mineiro (uai sô 🔺🇧🇷)
-- **Em transição de carreira**: de ```eng. mecânico``` para ```desenvolvedor web full-stack```
+- **Em transição de carreira**: de `eng. mecânico` para `desenvolvedor web full-stack`
+- Estudante de `Análise e Desenvolvimento de Sistemas` e `Desenvolvimento Web Full-Stack`
 - Apaixonado por códigos, pintura e esportes
 - Sempre aberto para colaborar em projetos e ajudar qualquer pessoa!
 
