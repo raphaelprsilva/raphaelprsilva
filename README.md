@@ -7,6 +7,7 @@
 - Estudante de `Análise e Desenvolvimento de Sistemas` e `Desenvolvimento Web Full-Stack`
 - Apaixonado por códigos, pintura e esportes
 - Sempre aberto para colaborar em projetos e ajudar qualquer pessoa!
+- **Curiosidade**: Adoro o programa Chaves, e principalmente o personagem [Seu Madruga](https://chaves.fandom.com/pt-br/wiki/Seu_Madruga)!
 
 ## Principais tecnologias que já estudei
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
