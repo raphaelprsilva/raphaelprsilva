@@ -13,6 +13,7 @@
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![my-sql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -44,8 +45,10 @@
 
 ## Github Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=raphaelprsilva&layout=compact&theme=gruvbox)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelprsilva&layout=compact&theme=gruvbox)](mailto:https://github.com/anuraghazra/github-readme-stats)
-
-![](https://komarev.com/ghpvc/?username=raphaelprsilva&color=blueviolet)
+<div align="center">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=raphaelprsilva&layout=compact&theme=omni&card_width=400px" alt="Github Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelprsilva&layout=compact&theme=omni" alt="Top Langs" />
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=raphaelprsilva&color=blueviolet" />
+</div>
